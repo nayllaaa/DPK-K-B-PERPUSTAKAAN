@@ -1,0 +1,334 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.genre-action-2Tp {
+  width: 100%;
+  height: 149rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.genre-action-2Tp .auto-group-ghdg-Zie {
+  width: 15rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 105.3rem;
+  top: 17.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.genre-action-2Tp .auto-group-ghdg-Zie .rectangle-16-H8r {
+  margin-bottom: 1.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-ghdg-Zie .saving-fable-1ae {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-j1qr-XYz {
+  width: 15rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 17.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.genre-action-2Tp .auto-group-j1qr-XYz .rectangle-18-ThY {
+  margin-bottom: 1.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-j1qr-XYz .a-wolf-for-a-spell-bok {
+  margin-right: 0.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-ikns-KUr {
+  width: 15rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 17.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.genre-action-2Tp .auto-group-ikns-KUr .dark-magic-graphics-open-1-3fk {
+  margin-bottom: 1.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-ikns-KUr .a-night-of-magic-a9t {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-dfrn-Jra {
+  width: 16.8rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 22.7rem;
+  top: 17.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.genre-action-2Tp .auto-group-dfrn-Jra .raya-SSz {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .auto-group-dfrn-Jra .raya-the-last-dragon-ZXc {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .age-gs8 {
+  box-sizing: border-box;
+  padding: 4.945rem 47.3rem 5.055rem 40.05rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-EsG.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.genre-action-2Tp .age-gs8 .child-C4n {
+  margin-right: 21.65rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .age-gs8 .teen-7Bk {
+  margin-right: 19.7rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .age-gs8 .adult-3LJ {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .genre-8sY {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 11.3rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.genre-action-2Tp .genre-8sY .action-SNS {
+  margin-right: 18.05rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .genre-8sY .adventure-ApE {
+  margin-right: 15.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .genre-8sY .fantasy-Htr {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE {
+  box-sizing: border-box;
+  padding: 3.8rem 10.006rem 3.8rem 6.4rem;
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0.0059rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.genre-action-2Tp .header-BzE .logo-apk-1-ss4 {
+  margin: 0rem 8.894rem 0.1rem 0rem;
+  width: 4.7rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .landing-page-CPY {
+  margin: 0.3rem 6.106rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .home-6jp {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .library-27g {
+  margin: 0.3rem 1.794rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .icon-keyboard-arrow-right-vD4 {
+  margin: 0.787rem 4.562rem 0rem 0rem;
+  width: 0.8439rem;
+  height: 1.2096rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .genre-Qe2 {
+  margin: 0.7rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .age-KW6 {
+  margin: 0.7rem 22.394rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-action-2Tp .header-BzE .search-S4v {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

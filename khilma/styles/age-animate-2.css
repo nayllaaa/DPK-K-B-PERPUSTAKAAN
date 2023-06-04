@@ -1,0 +1,619 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.age-animate-2-CAS {
+  box-sizing: border-box;
+  padding-bottom: 9.4rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.age-animate-2-CAS .header-iPg {
+  margin-bottom: 5.6rem;
+  width: 144.1rem;
+  height: 14.9rem;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .header-iPg .age-DrE {
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-n94.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.age-animate-2-CAS .header-iPg .age-DrE .teen-m74 {
+  width: 4.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .age-DrE .adult-3aN {
+  width: 5.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 91.2rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .age-DrE .child-M5G {
+  width: 5.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 39.95rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .age-DrE .genre-3yg {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-76N.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.age-animate-2-CAS .header-iPg .age-DrE .genre-3yg .action-kt6 {
+  margin-right: 18.05rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .header-iPg .age-DrE .genre-3yg .adventure-H7L {
+  margin-right: 15.4rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .header-iPg .age-DrE .genre-3yg .fantasy-1JE {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .header-iPg .rectangle-104-sLS {
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.age-animate-2-CAS .header-iPg .landing-page-b1Y {
+  width: 13.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .home-uH8 {
+  width: 5.8rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 39.6rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .icon-keyboard-arrow-right-1LA {
+  width: 0.8439rem;
+  height: 1.2097rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 5.8886rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.age-animate-2-CAS .header-iPg .genre-vT8 {
+  width: 5.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 65.8rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .age-qa6 {
+  width: 3.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .library-x8v {
+  width: 7.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.age-animate-2-CAS .header-iPg .logo-apk-1-5DY {
+  width: 4.7rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.age-animate-2-CAS .header-iPg .search-zrJ {
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 4.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.age-animate-2-CAS .group-1-eR4 {
+  margin: 0rem 22.8rem 0rem 22.5rem;
+  width: calc(100% - 45.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv {
+  box-sizing: border-box;
+  padding: 0rem 0.7rem 1.3rem 1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-34ht-VAn {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  display: flex;
+  column-gap: 12.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-34ht-VAn .image-2-Cqt {
+  width: 15rem;
+  height: 23.4rem;
+  position: relative;
+  background-size: 105.078% 100%;
+  background-position: -0.4308rem 0;
+  background-image: url('../assets/image-2-TKC.png');
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-34ht-VAn .images-5-1-iJS {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-34ht-VAn .rekomendasi-buku-bacaan-buat-remaja-1-FJN {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-34ht-VAn .image-3-Ntn {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-mjp2-75g {
+  margin: 0rem 4.7rem 4.5rem 2.2rem;
+  width: calc(100% - 6.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-mjp2-75g .laut-bercerita-Rs4 {
+  margin-right: 17.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-mjp2-75g .laut-tengah-MEv {
+  margin-right: 20.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-mjp2-75g .moon-UKY {
+  margin-right: 22.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-mjp2-75g .dreams-oci {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-deez-9An {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-deez-9An .rectangle-16-H26 {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-deez-9An .rectangle-18-cq4 {
+  margin-right: 11.5rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-deez-9An .marco-guadalupi-on-behance-1-ALn {
+  margin-right: 11rem;
+  width: 16.6rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-deez-9An .read-across-america-book-of-the-month-july-1-tna {
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-gir4-pRL {
+  margin: 0rem 1.25rem 4.5rem 2.45rem;
+  width: calc(100% - 3.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-gir4-pRL .saving-fable-k46 {
+  margin-right: 15.75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-gir4-pRL .a-wolf-for-a-spell-gCe {
+  margin-right: 14.85rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-gir4-pRL .the-flying-ship-bqQ {
+  margin-right: 14.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-gir4-pRL .the-bridge-home-L2J {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-ndsc-sH8 {
+  margin-left: 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-ndsc-sH8 .rectangle-17-cVc {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-ndsc-sH8 .tere-liye-1-x3g {
+  margin-right: 11.7rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-ndsc-sH8 .movies-to-watch-with-your-kids-before-they-grow-up-ti2 {
+  margin-right: 11.7rem;
+  width: 15.7rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-6d8r-Znv .auto-group-ndsc-sH8 .raya-DVQ {
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-ukfk-kVL {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-ukfk-kVL .the-magical-imperfect-WDc {
+  margin-right: 12.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-ukfk-kVL .matahari-minor-NFp {
+  margin-right: 17.45rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-ukfk-kVL .ferdinand-uFk {
+  margin-right: 15.05rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-ukfk-kVL .raya-the-last-dragon-374 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J {
+  box-sizing: border-box;
+  padding: 4rem 0.15rem 0rem 0.15rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-npsq-JYn {
+  margin: 0rem 0.55rem 1.3rem 0.95rem;
+  width: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-npsq-JYn .wingfeather-saga-cover-series-1-2za {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-npsq-JYn .the-wonder-of-wildflowers-by-anna-staniszewski-1-mBU {
+  margin-right: 12.7rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-npsq-JYn .dark-magic-graphics-open-1-H9p {
+  margin-right: 11.5rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-npsq-JYn .hidden-dragon-otr {
+  width: 15.4rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-wx18-MfU {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-wx18-MfU .the-wingfeather-saga-7ee {
+  margin-right: 13.15rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-wx18-MfU .the-wonder-of-wildflowers-Swp {
+  margin-right: 15.4rem;
+  max-width: 11.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-wx18-MfU .a-night-of-magic-Mot {
+  margin-right: 14.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-animate-2-CAS .group-1-eR4 .auto-group-yiuv-z2J .auto-group-wx18-MfU .hidden-dragon-HxS {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

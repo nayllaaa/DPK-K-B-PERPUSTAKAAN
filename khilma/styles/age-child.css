@@ -1,0 +1,305 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.age-child-V7U {
+  width: 100%;
+  height: 149rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.age-child-V7U .auto-group-4dxk-27Q {
+  width: 15.4rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 17.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.age-child-V7U .auto-group-4dxk-27Q .hidden-dragon-jnW {
+  margin-bottom: 1.3rem;
+  width: 15.4rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-child-V7U .auto-group-4dxk-27Q .hidden-dragon-GnS {
+  margin-left: 0.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .auto-group-psyg-ywk {
+  width: 15.7rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 17.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.age-child-V7U .auto-group-psyg-ywk .movies-to-watch-with-your-kids-before-they-grow-up-hsk {
+  margin-bottom: 1.3rem;
+  width: 15.7rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-child-V7U .auto-group-psyg-ywk .ferdinand-phU {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .auto-group-vwq8-kb8 {
+  width: 16.8rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 22.7rem;
+  top: 17.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.age-child-V7U .auto-group-vwq8-kb8 .raya-5NW {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-child-V7U .auto-group-vwq8-kb8 .raya-the-last-dragon-Cxv {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .genre-8ra {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-wsc.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.age-child-V7U .genre-8ra .action-doL {
+  margin-right: 18.05rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .genre-8ra .adventure-xqc {
+  margin-right: 15.4rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .genre-8ra .fantasy-5vE {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .age-BiN {
+  box-sizing: border-box;
+  padding: 4.945rem 47.3rem 5.055rem 40.05rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 11.3rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-1ug.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.age-child-V7U .age-BiN .child-6KY {
+  margin-right: 21.65rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .age-BiN .teen-pmL {
+  margin-right: 19.7rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .age-BiN .adult-kut {
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr {
+  box-sizing: border-box;
+  padding: 3.8rem 10rem 3.8rem 6.4rem;
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.age-child-V7U .header-FLr .logo-apk-1-wjU {
+  margin: 0rem 8.9rem 0.1rem 0rem;
+  width: 4.7rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .landing-page-FVG {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .home-AML {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .library-5jC {
+  margin: 0.3rem 1.794rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .icon-keyboard-arrow-right-ov6 {
+  margin: 0.787rem 4.562rem 0rem 0rem;
+  width: 0.8439rem;
+  height: 1.2097rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .genre-7A6 {
+  margin: 0.7rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .age-deE {
+  margin: 0.7rem 22.4rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.age-child-V7U .header-FLr .search-kTx {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,592 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.genre-fantasy-2-z38 {
+  width: 100%;
+  height: 149rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.genre-fantasy-2-z38 .group-1-vSa {
+  width: 98.7rem;
+  height: 121.8rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 17.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp {
+  box-sizing: border-box;
+  padding: 0rem 0.7rem 1.3rem 1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-wha6-N3g {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  display: flex;
+  column-gap: 12.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-wha6-N3g .image-2-5yg {
+  width: 15rem;
+  height: 23.4rem;
+  position: relative;
+  background-size: 105.078% 100%;
+  background-position: -0.4308rem 0;
+  background-image: url('../assets/image-2-GAA.png');
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-wha6-N3g .images-5-1-a9k {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-wha6-N3g .rekomendasi-buku-bacaan-buat-remaja-1-JrS {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-wha6-N3g .image-3-FFt {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-ya3g-P7C {
+  margin: 0rem 4.7rem 4.5rem 2.2rem;
+  width: calc(100% - 6.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-ya3g-P7C .laut-bercerita-Vg2 {
+  margin-right: 17.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-ya3g-P7C .laut-tengah-1PU {
+  margin-right: 20.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-ya3g-P7C .moon-Kux {
+  margin-right: 22.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-ya3g-P7C .dreams-GKQ {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-js1c-zFQ {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-js1c-zFQ .rectangle-16-KHg {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-js1c-zFQ .rectangle-18-Fh8 {
+  margin-right: 11.5rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-js1c-zFQ .marco-guadalupi-on-behance-1-zei {
+  margin-right: 11rem;
+  width: 16.6rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-js1c-zFQ .read-across-america-book-of-the-month-july-1-X8r {
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-477l-3st {
+  margin: 0rem 1.25rem 4.5rem 2.45rem;
+  width: calc(100% - 3.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-477l-3st .saving-fable-n4n {
+  margin-right: 15.75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-477l-3st .a-wolf-for-a-spell-WFg {
+  margin-right: 14.85rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-477l-3st .the-flying-ship-dr6 {
+  margin-right: 14.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-477l-3st .the-bridge-home-yQA {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-j1ci-7WN {
+  margin-left: 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-j1ci-7WN .rectangle-17-f26 {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-j1ci-7WN .tere-liye-1-oPC {
+  margin-right: 11.7rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-j1ci-7WN .movies-to-watch-with-your-kids-before-they-grow-up-jXk {
+  margin-right: 11.7rem;
+  width: 15.7rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-y7ou-Sfp .auto-group-j1ci-7WN .raya-rMU {
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-6jsi-BuY {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-6jsi-BuY .the-magical-imperfect-kBx {
+  margin-right: 12.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-6jsi-BuY .matahari-minor-5V8 {
+  margin-right: 17.45rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-6jsi-BuY .ferdinand-pBp {
+  margin-right: 15.05rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-6jsi-BuY .raya-the-last-dragon-Ydc {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY {
+  box-sizing: border-box;
+  padding: 4rem 0.15rem 0rem 0.15rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-f16e-22z {
+  margin: 0rem 0.55rem 1.3rem 0.95rem;
+  width: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-f16e-22z .wingfeather-saga-cover-series-1-YX8 {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-f16e-22z .the-wonder-of-wildflowers-by-anna-staniszewski-1-spJ {
+  margin-right: 12.7rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-f16e-22z .dark-magic-graphics-open-1-Pne {
+  margin-right: 11.5rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-f16e-22z .hidden-dragon-XP4 {
+  width: 15.4rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-esby-TXc {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-esby-TXc .the-wingfeather-saga-DFt {
+  margin-right: 13.15rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-esby-TXc .the-wonder-of-wildflowers-99Y {
+  margin-right: 15.4rem;
+  max-width: 11.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-esby-TXc .a-night-of-magic-GEA {
+  margin-right: 14.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .group-1-vSa .auto-group-a1ga-5dY .auto-group-esby-TXc .hidden-dragon-P3t {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .age-iM4 {
+  box-sizing: border-box;
+  padding: 4.945rem 47.3rem 5.055rem 40.05rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-taa.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.genre-fantasy-2-z38 .age-iM4 .child-Qjg {
+  margin-right: 21.65rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .age-iM4 .teen-9BU {
+  margin-right: 19.7rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .age-iM4 .adult-fvW {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .genre-NK8 {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-YXg.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.genre-fantasy-2-z38 .genre-NK8 .action-Ud4 {
+  margin-right: 18.05rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .genre-NK8 .adventure-QWi {
+  margin-right: 15.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .genre-NK8 .fantasy-Y78 {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 {
+  box-sizing: border-box;
+  padding: 3.8rem 10.006rem 3.8rem 6.4rem;
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0.0059rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.genre-fantasy-2-z38 .header-qM8 .logo-apk-1-WTG {
+  margin: 0rem 8.9rem 0.1rem 0rem;
+  width: 4.7rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .landing-page-RaE {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .home-LSJ {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .library-FpA {
+  margin: 0.3rem 1.794rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .icon-keyboard-arrow-right-Bhp {
+  margin: 0.787rem 4.562rem 0rem 0rem;
+  width: 0.8439rem;
+  height: 1.2097rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .genre-J1k {
+  margin: 0.7rem 6.1rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .age-2iS {
+  margin: 0.7rem 22.394rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-fantasy-2-z38 .header-qM8 .search-x6J {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

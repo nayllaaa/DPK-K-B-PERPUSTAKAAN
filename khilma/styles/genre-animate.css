@@ -1,0 +1,590 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.genre-animate-Bu8 {
+  width: 100%;
+  height: 149rem;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.genre-animate-Bu8 .group-1-7Gz {
+  width: 98.7rem;
+  height: 121.8rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 17.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL {
+  box-sizing: border-box;
+  padding: 0rem 0.7rem 1.3rem 1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-3mvq-jpA {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  display: flex;
+  column-gap: 12.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-3mvq-jpA .image-2-fC2 {
+  width: 15rem;
+  height: 23.4rem;
+  position: relative;
+  background-size: 105.078% 100%;
+  background-position: -0.4308rem 0;
+  background-image: url('../assets/image-2-BfL.png');
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-3mvq-jpA .images-5-1-9st {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-3mvq-jpA .rekomendasi-buku-bacaan-buat-remaja-1-6YE {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-3mvq-jpA .image-3-d2N {
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-jqyu-xaS {
+  margin: 0rem 4.7rem 4.5rem 2.2rem;
+  width: calc(100% - 6.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-jqyu-xaS .laut-bercerita-H6v {
+  margin-right: 17.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-jqyu-xaS .laut-tengah-abp {
+  margin-right: 20.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-jqyu-xaS .moon-Jni {
+  margin-right: 22.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-jqyu-xaS .dreams-2ii {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-8jz4-xcN {
+  margin: 0rem 0.1rem 1.3rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-8jz4-xcN .rectangle-16-Hee {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-8jz4-xcN .rectangle-18-Rkr {
+  margin-right: 11.5rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-8jz4-xcN .marco-guadalupi-on-behance-1-NRC {
+  margin-right: 11rem;
+  width: 16.6rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-8jz4-xcN .read-across-america-book-of-the-month-july-1-JJr {
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dpaw-DRp {
+  margin: 0rem 1.25rem 4.5rem 2.45rem;
+  width: calc(100% - 3.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dpaw-DRp .saving-fable-jux {
+  margin-right: 15.75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dpaw-DRp .a-wolf-for-a-spell-GQ6 {
+  margin-right: 14.85rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dpaw-DRp .the-flying-ship-zqt {
+  margin-right: 14.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dpaw-DRp .the-bridge-home-XL2 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dgzc-2na {
+  margin-left: 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dgzc-2na .rectangle-17-aZC {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dgzc-2na .tere-liye-1-Wxe {
+  margin-right: 11.7rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dgzc-2na .movies-to-watch-with-your-kids-before-they-grow-up-eZ4 {
+  margin-right: 11.7rem;
+  width: 15.7rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-zh7l-dFL .auto-group-dgzc-2na .raya-mdg {
+  width: 15.5rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-byhp-uzn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-byhp-uzn .the-magical-imperfect-GqL {
+  margin-right: 12.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-byhp-uzn .matahari-minor-CU6 {
+  margin-right: 17.45rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-byhp-uzn .ferdinand-wAn {
+  margin-right: 15.05rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-byhp-uzn .raya-the-last-dragon-roY {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 {
+  box-sizing: border-box;
+  padding: 4rem 0.15rem 0rem 0.15rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-tt9t-vYW {
+  margin: 0rem 0.55rem 1.3rem 0.95rem;
+  width: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-tt9t-vYW .wingfeather-saga-cover-series-1-eUW {
+  margin-right: 12.3rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-tt9t-vYW .the-wonder-of-wildflowers-by-anna-staniszewski-1-mZ8 {
+  margin-right: 12.7rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-tt9t-vYW .dark-magic-graphics-open-1-tdk {
+  margin-right: 11.5rem;
+  width: 15rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-tt9t-vYW .hidden-dragon-pnJ {
+  width: 15.4rem;
+  height: 23.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-joxk-Zzn {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-joxk-Zzn .the-wingfeather-saga-j8a {
+  margin-right: 13.15rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-joxk-Zzn .the-wonder-of-wildflowers-rU6 {
+  margin-right: 15.4rem;
+  max-width: 11.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-joxk-Zzn .a-night-of-magic-m5G {
+  margin-right: 14.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .group-1-7Gz .auto-group-qmbc-nx6 .auto-group-joxk-Zzn .hidden-dragon-gxv {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .age-Rfc {
+  box-sizing: border-box;
+  padding: 4.945rem 47.3rem 5.055rem 40.05rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-Wa2.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.genre-animate-Bu8 .age-Rfc .child-vsG {
+  margin-right: 21.65rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .age-Rfc .teen-4Tg {
+  margin-right: 19.7rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .age-Rfc .adult-zcE {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .genre-HbL {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-Q2z.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.genre-animate-Bu8 .genre-HbL .action-BRp {
+  margin-right: 18.05rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .genre-HbL .adventure-usc {
+  margin-right: 15.4rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .genre-HbL .fantasy-Eez {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW {
+  box-sizing: border-box;
+  padding: 3.8rem 10rem 3.8rem 6.4rem;
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.genre-animate-Bu8 .header-WcW .logo-apk-1-13U {
+  margin: 0rem 8.9rem 0.1rem 0rem;
+  width: 4.7rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .landing-page-iCn {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .home-cox {
+  margin: 0.3rem 6.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .library-jta {
+  margin: 0.3rem 1.8rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .icon-keyboard-arrow-right-Gdc {
+  margin: 0.787rem 4.556rem 0rem 0rem;
+  width: 0.8439rem;
+  height: 1.2097rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .genre-NAr {
+  margin: 0.7rem 6.1rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .age-J4W {
+  margin: 0.7rem 22.4rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.genre-animate-Bu8 .header-WcW .search-dMg {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

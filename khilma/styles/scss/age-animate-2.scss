@@ -1,0 +1,634 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.age-animate-2-CAS {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding-bottom: 9.4rem;
+  cursor: pointer;
+  background-color: #ffffff;
+
+  .header-iPg {
+    margin-bottom: 5.6rem;
+    width: 144.1rem;
+    height: 14.9rem;
+    flex-shrink: 0;
+
+    .age-DrE {
+      height: 12.7rem;
+      background-repeat: no-repeat;
+      background-position: center;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      width: 144rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-size: cover;
+      background-image: url('REPLACE_IMAGE:108:374');
+
+      .teen-m74 {
+        width: 4.8rem;
+        top: 2.2451rem;
+        text-align: center;
+        line-height: 1.25;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        height: 2.7rem;
+        position: absolute;
+        left: 66.7rem;
+        font-size: 2.1rem;
+        font-weight: 400;
+        white-space: nowrap;
+      }
+      .adult-3aN {
+        text-align: center;
+        color: #000000;
+        width: 5.4rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 91.2rem;
+        top: 2.2451rem;
+        font-size: 2.1rem;
+        font-weight: 400;
+        line-height: 1.25;
+        font-family: Lexend, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .child-M5G {
+        height: 2.7rem;
+        position: absolute;
+        left: 39.95rem;
+        font-size: 2.1rem;
+        font-weight: 400;
+        white-space: nowrap;
+        width: 5.1rem;
+        top: 2.2451rem;
+        text-align: center;
+        line-height: 1.25;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+      }
+      .genre-3yg {
+        background-repeat: no-repeat;
+        position: absolute;
+        width: 144rem;
+        align-items: center;
+        background-position: center;
+        padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+        height: 12.7rem;
+        top: 0;
+        background-size: cover;
+        background-image: url('REPLACE_IMAGE:108:383');
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        display: flex;
+        left: 0;
+
+        .action-kt6 {
+          font-size: 2.1rem;
+          color: #000000;
+          flex-shrink: 0;
+          text-align: center;
+          font-weight: 400;
+          line-height: 1.25;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-right: 18.05rem;
+        }
+        .adventure-H7L {
+          font-size: 2.1rem;
+          font-weight: 400;
+          line-height: 1.25;
+          margin-right: 15.4rem;
+          text-align: center;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .fantasy-1JE {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 2.1rem;
+          font-weight: 400;
+        }
+      }
+    }
+    .rectangle-104-sLS {
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: #ffffff;
+      width: 144rem;
+      height: 12.2rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    .landing-page-b1Y {
+      line-height: 1.25;
+      color: #000000;
+      width: 13.5rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 20rem;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      cursor: pointer;
+      top: 5rem;
+      font-size: 2rem;
+      font-weight: 400;
+    }
+    .home-uH8 {
+      font-weight: 400;
+      cursor: pointer;
+      position: absolute;
+      left: 39.6rem;
+      top: 5rem;
+      font-size: 2rem;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      width: 5.8rem;
+      height: 2.5rem;
+      white-space: nowrap;
+    }
+    .icon-keyboard-arrow-right-1LA {
+      vertical-align: top;
+      width: 0.8439rem;
+      height: 1.2097rem;
+      position: absolute;
+      left: 60.4rem;
+      top: 5.8886rem;
+      object-fit: contain;
+    }
+    .genre-vT8 {
+      left: 65.8rem;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 5.9rem;
+      position: absolute;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      height: 2.5rem;
+      top: 5.2rem;
+    }
+    .age-qa6 {
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 3.9rem;
+      height: 2.5rem;
+      line-height: 1.25;
+      font-size: 2rem;
+      font-weight: 400;
+      color: #000000;
+      position: absolute;
+      left: 77.8rem;
+      top: 5.2rem;
+    }
+    .library-x8v {
+      white-space: nowrap;
+      width: 7.1rem;
+      position: absolute;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      height: 2.5rem;
+      left: 51.5rem;
+      top: 5rem;
+      color: #e74646;
+      font-family: Lexend, 'Source Sans Pro';
+    }
+    .logo-apk-1-5DY {
+      vertical-align: top;
+      width: 4.7rem;
+      height: 4.5rem;
+      position: absolute;
+      left: 6.4rem;
+      top: 3.8rem;
+      object-fit: cover;
+    }
+    .search-zrJ {
+      color: #5e5e5e;
+      background-color: #ffffff;
+      height: 4.3rem;
+      font-weight: 300;
+      line-height: 1.25;
+      white-space: nowrap;
+      border: solid 0.1rem #121212;
+      box-sizing: border-box;
+      padding: 1.2rem 2.2rem;
+      font-family: Lexend, 'Source Sans Pro';
+      border-radius: 5rem;
+      width: 29.9rem;
+      left: 104.1rem;
+      font-size: 1.5rem;
+      position: absolute;
+      top: 4.1rem;
+    }
+  }
+  .group-1-eR4 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: 0rem 22.8rem 0rem 22.5rem;
+    width: calc(100% - 45.3rem);
+
+    .auto-group-6d8r-Znv {
+      box-sizing: border-box;
+      padding: 0rem 0.7rem 1.3rem 1rem;
+      width: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .auto-group-34ht-VAn {
+        margin: 0rem 0.1rem 1.3rem 0rem;
+        display: flex;
+        column-gap: 12.3rem;
+        align-items: center;
+        flex-shrink: 0;
+
+        .image-2-Cqt {
+          width: 15rem;
+          height: 23.4rem;
+          position: relative;
+          background-size: 105.078% 100%;
+          background-position: -0.4308rem 0;
+          background-image: url('REPLACE_IMAGE:6011f94b9e5aefded66ed03005d7efa110fb6e0f');
+          flex-shrink: 0;
+        }
+        .images-5-1-iJS {
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 15rem;
+          height: 23.4rem;
+          object-fit: cover;
+        }
+        .rekomendasi-buku-bacaan-buat-remaja-1-FJN {
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 15rem;
+          height: 23.4rem;
+        }
+        .image-3-Ntn {
+          flex-shrink: 0;
+          width: 15rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .auto-group-mjp2-75g {
+        margin: 0rem 4.7rem 4.5rem 2.2rem;
+        width: calc(100% - 6.9rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .laut-bercerita-Rs4 {
+          line-height: 1.25;
+          color: #000000;
+          margin-right: 17.2rem;
+          font-size: 1.6rem;
+          font-weight: 300;
+          flex-shrink: 0;
+          text-align: center;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .laut-tengah-MEv {
+          white-space: nowrap;
+          margin-right: 20.5rem;
+          font-weight: 300;
+          line-height: 1.25;
+          font-family: Lexend, 'Source Sans Pro';
+          text-align: center;
+          font-size: 1.6rem;
+          color: #000000;
+          flex-shrink: 0;
+        }
+        .moon-UKY {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          margin-right: 22.2rem;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .dreams-oci {
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .auto-group-deez-9An {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 0.1rem 1.3rem 0rem;
+        display: flex;
+
+        .rectangle-16-H26 {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 12.3rem;
+          width: 15rem;
+          height: 23.4rem;
+          object-fit: cover;
+        }
+        .rectangle-18-cq4 {
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 11.5rem;
+          width: 15rem;
+          height: 23.4rem;
+        }
+        .marco-guadalupi-on-behance-1-ALn {
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 11rem;
+          width: 16.6rem;
+        }
+        .read-across-america-book-of-the-month-july-1-tna {
+          width: 15.5rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .auto-group-gir4-pRL {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 1.25rem 4.5rem 2.45rem;
+        width: calc(100% - 3.7rem);
+        display: flex;
+
+        .saving-fable-k46 {
+          font-size: 1.6rem;
+          font-weight: 300;
+          color: #000000;
+          margin-right: 15.75rem;
+          text-align: center;
+          line-height: 1.25;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .a-wolf-for-a-spell-gCe {
+          margin-right: 14.85rem;
+          text-align: center;
+          font-weight: 300;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          font-size: 1.6rem;
+          line-height: 1.25;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .the-flying-ship-bqQ {
+          margin-right: 14.8rem;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+          line-height: 1.25;
+        }
+        .the-bridge-home-L2J {
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+          line-height: 1.25;
+        }
+      }
+      .auto-group-ndsc-sH8 {
+        align-items: center;
+        flex-shrink: 0;
+        margin-left: 0.1rem;
+        display: flex;
+
+        .rectangle-17-cVc {
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 12.3rem;
+          width: 15rem;
+        }
+        .tere-liye-1-x3g {
+          margin-right: 11.7rem;
+          width: 15rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .movies-to-watch-with-your-kids-before-they-grow-up-ti2 {
+          margin-right: 11.7rem;
+          width: 15.7rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .raya-DVQ {
+          width: 15.5rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .auto-group-ukfk-kVL {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .the-magical-imperfect-WDc {
+        line-height: 1.25;
+        margin-right: 12.9rem;
+        font-weight: 300;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: center;
+        font-size: 1.6rem;
+      }
+      .matahari-minor-NFp {
+        margin-right: 17.45rem;
+        text-align: center;
+        font-weight: 300;
+        line-height: 1.25;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        font-size: 1.6rem;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .ferdinand-uFk {
+        text-align: center;
+        font-size: 1.6rem;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        margin-right: 15.05rem;
+        font-weight: 300;
+        line-height: 1.25;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .raya-the-last-dragon-374 {
+        font-size: 1.6rem;
+        font-weight: 300;
+        line-height: 1.25;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: center;
+      }
+    }
+    .auto-group-yiuv-z2J {
+      box-sizing: border-box;
+      padding: 4rem 0.15rem 0rem 0.15rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .auto-group-npsq-JYn {
+        margin: 0rem 0.55rem 1.3rem 0.95rem;
+        width: calc(100% - 1.5rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .wingfeather-saga-cover-series-1-2za {
+          margin-right: 12.3rem;
+          width: 15rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .the-wonder-of-wildflowers-by-anna-staniszewski-1-mBU {
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 12.7rem;
+          width: 15rem;
+        }
+        .dark-magic-graphics-open-1-H9p {
+          margin-right: 11.5rem;
+          width: 15rem;
+          height: 23.4rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .hidden-dragon-otr {
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 15.4rem;
+          height: 23.4rem;
+          object-fit: cover;
+        }
+      }
+      .auto-group-wx18-MfU {
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .the-wingfeather-saga-7ee {
+          margin-right: 13.15rem;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .the-wonder-of-wildflowers-Swp {
+          line-height: 1.25;
+          margin-right: 15.4rem;
+          max-width: 11.4rem;
+          font-size: 1.6rem;
+          font-weight: 300;
+          text-align: center;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          flex-shrink: 0;
+        }
+        .a-night-of-magic-Mot {
+          font-size: 1.6rem;
+          font-weight: 300;
+          line-height: 1.25;
+          color: #000000;
+          margin-right: 14.3rem;
+          text-align: center;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .hidden-dragon-HxS {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+        }
+      }
+    }
+  }
+}

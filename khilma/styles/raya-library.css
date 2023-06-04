@@ -1,0 +1,467 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.raya-library-hvv {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.raya-library-hvv .header-3E6 {
+  width: 144.1rem;
+  height: 14.9rem;
+  flex-shrink: 0;
+}
+.raya-library-hvv .header-3E6 .age-AJi {
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-8Mk.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.raya-library-hvv .header-3E6 .age-AJi .teen-u1Q {
+  width: 4.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .age-AJi .adult-Bjc {
+  width: 5.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 91.2rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .age-AJi .child-5pz {
+  width: 5.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 39.95rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .age-AJi .genre-nUW {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-4wQ.png');
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.raya-library-hvv .header-3E6 .age-AJi .genre-nUW .action-h5g {
+  margin-right: 18.05rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .header-3E6 .age-AJi .genre-nUW .adventure-pAJ {
+  margin-right: 15.4rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .header-3E6 .age-AJi .genre-nUW .fantasy-9TU {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .header-3E6 .rectangle-104-Psc {
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.raya-library-hvv .header-3E6 .search-v6r {
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 104.1rem;
+  top: 4.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.raya-library-hvv .header-3E6 .landing-page-Mxr {
+  width: 13.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .home-TFC {
+  width: 5.8rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 39.6rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .icon-keyboard-arrow-right-xhk {
+  width: 0.8438rem;
+  height: 1.182rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 5.7542rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.raya-library-hvv .header-3E6 .genre-5Ga {
+  width: 5.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 65.8rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .age-P2N {
+  width: 3.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .library-6hU {
+  width: 7.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.raya-library-hvv .header-3E6 .logo-apk-1-1pS {
+  width: 4.7rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.raya-library-hvv .auto-group-hagv-M7c {
+  margin-bottom: 3.4rem;
+  width: 144.2rem;
+  height: 35.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-hagv-M7c .raya-gQn {
+  opacity: 0.5;
+  width: 144.2rem;
+  height: 28.7rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 754.357%;
+  background-position: 0.2782rem -30.4589rem;
+  background-image: url('../assets/raya-CpE.png');
+}
+.raya-library-hvv .auto-group-hagv-M7c .raya-9pA {
+  width: 13.2rem;
+  height: 20rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 15.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.raya-library-hvv .auto-group-hagv-M7c .raya-tmk {
+  width: 13.2rem;
+  height: 20rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 15.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.raya-library-hvv .raya-and-the-last-dragon-Dp2 {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G {
+  box-sizing: border-box;
+  padding: 3.4rem 27.7rem 5.5rem 27.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-2-G1c {
+  margin: 0rem 35.3rem 3.9rem 35.7rem;
+  width: calc(100% - 71rem);
+  height: 4.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fa9884;
+  border-radius: 2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .action-adventure-5Dx {
+  margin-bottom: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .teen-bTC {
+  margin-bottom: 3.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .description-7wL {
+  margin-bottom: 4.2rem;
+  box-sizing: border-box;
+  padding-bottom: 0.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .description-7wL .description-fT4 {
+  margin: 0rem 0rem 1.9rem 0.179rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .description-7wL .rectangle-115-BRQ {
+  margin: 0rem 42.323rem 2.5rem 42.356rem;
+  width: calc(100% - 84.679rem);
+  height: 0.3rem;
+  background-color: #fa9884;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .description-7wL .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis-iste-natus-error-sit-voluptatem-accusantium-doloremque-laudantium-totam-rem-aperiam-eaque-ipsa-quae-ab-illo-inventore-veritatis-et-quasi-architecto-beatae-vitae-dicta-sunt-explicabo-nemo-enim-ipsam-voluptatem-quia-voluptas-sit-aspernatur-aut-odit-aut-fugit-sed-quia-consequuntur-magni-dolores-eos-qui-ratione-voluptatem-sequi-nesciunt-neque-porro-quisquam-est-qui-dolorem-ipsum-quia-dolor-sit-amet-consectetur-adipisci-velit-sed-quia-non-numquam-eius-modi-tempora-incidunt-ut-labore-et-dolore-magnam-aliquam-quaerat-voluptatem-ut-enim-ad-minima-veniam-quis-nostrum-exercitationem-ullam-corporis-suscipit-laboriosam-nisi-ut-aliquid-ex-ea-commodi-consequatur-quis-autem-vel-eum-iure-reprehenderit-qui-in-ea-voluptate-velit-esse-quam-nihil-molestiae-consequatur-vel-illum-qui-dolorem-eum-fugiat-quo-voluptas-nulla-pariatur-JF8 {
+  max-width: 88.5rem;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 {
+  margin: 0rem 20.5rem 0rem 20.3rem;
+  width: calc(100% - 40.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 .auto-group-9fbt-DYS {
+  box-sizing: border-box;
+  padding: 0rem 21.879rem 3.7rem 22rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 .auto-group-9fbt-DYS .part-9BC {
+  margin: 0rem 0.021rem 1.6rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 .auto-group-9fbt-DYS .rectangle-115-3nN {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #fa9884;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 .part-1-zBp {
+  margin-bottom: 0.9rem;
+  box-sizing: border-box;
+  padding: 0rem 21.3rem 0rem 21.4rem;
+  width: 100%;
+  height: 3.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #818181;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #bebdbd;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 .part-2-fHx {
+  margin-bottom: 0.9rem;
+  box-sizing: border-box;
+  padding: 0rem 21.3rem 0rem 21.5rem;
+  width: 100%;
+  height: 3.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #818181;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #bebdbd;
+  flex-shrink: 0;
+}
+.raya-library-hvv .auto-group-3sbl-k3G .group-3-tm4 .part-3-9U2 {
+  box-sizing: border-box;
+  padding: 0rem 21.6rem 0rem 21.8rem;
+  width: 100%;
+  height: 3.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #818181;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #bebdbd;
+  flex-shrink: 0;
+}

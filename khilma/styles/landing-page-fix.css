@@ -1,0 +1,538 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  width: 144rem;
+}
+.landing-page-fix-Smc {
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.landing-page-fix-Smc .header-NvA {
+  margin: 0rem 0.1rem 5rem 0rem;
+  width: 144.1rem;
+  height: 14.9rem;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .header-NvA .age-gfx {
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/subtract-npv.png");
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .teen-RdY {
+  width: 4.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 66.6rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .adult-Wez {
+  width: 5.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 91.1rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .child-27Y {
+  width: 5.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 39.85rem;
+  top: 2.2451rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .genre-wEW {
+  box-sizing: border-box;
+  padding: 4.945rem 45.9rem 5.055rem 39.35rem;
+  width: 144rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/subtract-x78.png");
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .genre-wEW .action-qKt {
+  margin-right: 18.05rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .genre-wEW .adventure-kxe {
+  margin-right: 15.4rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .header-NvA .age-gfx .genre-wEW .fantasy-tox {
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .header-NvA .rectangle-104-YNi {
+  width: 144rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.landing-page-fix-Smc .header-NvA .genre-U1U {
+  width: 5.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 65.6rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .age-NsY {
+  width: 3.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.6rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .home-5X4 {
+  width: 5.8rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 39.5rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .landing-page-nRU {
+  width: 13.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #e74646;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .icon-keyboard-arrow-right-6wx {
+  width: 1.4321rem;
+  height: 0.7128rem;
+  position: absolute;
+  left: 60rem;
+  top: 6.137rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-fix-Smc .header-NvA .library-1JE {
+  width: 7.1rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 51.4rem;
+  top: 5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .header-NvA .logo-apk-1-WEz {
+  width: 4.7rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-page-fix-Smc .header-NvA .search-EAz {
+  box-sizing: border-box;
+  padding: 1.2rem 2.2rem;
+  width: 29.9rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 104rem;
+  top: 4.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #5e5e5e;
+  font-family: Lexend, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.1rem #121212;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.landing-page-fix-Smc .group-4-g2z {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce {
+  margin-bottom: 9.2rem;
+  width: 134.1217rem;
+  height: 91.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .subtract-1-Mev {
+  width: 48.4217rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 85.7rem;
+  top: 17.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-2-UzS {
+  width: 103.5rem;
+  height: 39.8rem;
+  position: absolute;
+  left: 0;
+  top: 51.7rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-2-UzS .pexels-chilmars-6691727-1-Dh8 {
+  margin-right: 24.3rem;
+  width: 28.9rem;
+  height: 39.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-2-UzS .auto-group-hb3t-wd8 {
+  margin: 9.1rem 0;
+  width: 50.3rem;
+  height: calc(100% - 18.2rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc
+  .group-4-g2z
+  .auto-group-1fg2-2ce
+  .item-2-UzS
+  .auto-group-hb3t-wd8
+  .discover-a-world-of-wonders-through-our-abundant-collection-of-books-from-timeless-classics-to-the-latest-works-we-have-a-captivating-selection-that-enthralls-readers-of-all-ages-and-interests-GvJ {
+  width: 50.3rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  text-align: right;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-2-UzS .auto-group-hb3t-wd8 .whoa-HaW {
+  width: 29.3rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: MADE Canvas, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr {
+  width: 103.5rem;
+  height: 42.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv {
+  margin: 4.6rem 25rem 4.6rem 0rem;
+  width: 48rem;
+  height: calc(100% - 9.2rem);
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ {
+  margin-bottom: 7.6rem;
+  width: 43.2rem;
+  height: 17.8rem;
+  position: relative;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .adventure-yre {
+  width: 43.2rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: MADE Canvas, "Source Sans Pro";
+  white-space: nowrap;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .of-a-mazed-book-JP8 {
+  width: 37.9rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 11.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: MADE Canvas, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .of-a-mazed-book-JP8 .of-a-mazed-book-JP8-sub-0 {
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .of-a-mazed-book-JP8 .of-a-mazed-book-JP8-sub-1 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e74646;
+  font-family: MADE Canvas, "Source Sans Pro";
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .of-a-mazed-book-JP8 .of-a-mazed-book-JP8-sub-2 {
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .of-a-mazed-book-JP8 .of-a-mazed-book-JP8-sub-3 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e74646;
+  font-family: MADE Canvas, "Source Sans Pro";
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-rc9c-3CJ .of-a-mazed-book-JP8 .of-a-mazed-book-JP8-sub-4 {
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-smxt-hi6 {
+  width: 100%;
+  height: 7.7rem;
+  position: relative;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-smxt-hi6 .rectangle-99-etE {
+  width: 36rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 12rem;
+  top: 3.9rem;
+  background-color: #fa9884;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .auto-group-u4na-iQv .auto-group-smxt-hi6 .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA {
+  width: 47.1rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, "Source Sans Pro";
+}
+.landing-page-fix-Smc
+  .group-4-g2z
+  .auto-group-1fg2-2ce
+  .item-1-Nrr
+  .auto-group-u4na-iQv
+  .auto-group-smxt-hi6
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA-sub-0 {
+}
+.landing-page-fix-Smc
+  .group-4-g2z
+  .auto-group-1fg2-2ce
+  .item-1-Nrr
+  .auto-group-u4na-iQv
+  .auto-group-smxt-hi6
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffe5ca;
+  font-family: Lexend, "Source Sans Pro";
+}
+.landing-page-fix-Smc
+  .group-4-g2z
+  .auto-group-1fg2-2ce
+  .item-1-Nrr
+  .auto-group-u4na-iQv
+  .auto-group-smxt-hi6
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA-sub-2 {
+}
+.landing-page-fix-Smc
+  .group-4-g2z
+  .auto-group-1fg2-2ce
+  .item-1-Nrr
+  .auto-group-u4na-iQv
+  .auto-group-smxt-hi6
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA
+  .welcome-to-our-library-the-source-of-knowledge-and-boundless-adventures-BtA-sub-3 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffe5ca;
+  font-family: Lexend, "Source Sans Pro";
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-1fg2-2ce .item-1-Nrr .mask-group-YEr {
+  width: 30.5rem;
+  height: 42.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ {
+  margin-right: 40.5717rem;
+  width: 142.35rem;
+  height: 90.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ .slide-D66 {
+  width: 8.8rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 67.6rem;
+  top: 48.4rem;
+  display: flex;
+  column-gap: 0.9rem;
+  align-items: center;
+}
+
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ .subtract-2-N7Q {
+  width: 60.8rem;
+  height: 60.8rem;
+  position: absolute;
+  left: 0;
+  top: 29.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ .footer-WDc {
+  width: 84.1rem;
+  height: 37.8rem;
+  position: absolute;
+  left: 29.95rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5rem;
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ .footer-WDc .lets-move-EfQ {
+  margin: 0rem 4.1rem 4.1rem 0rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: MADE Canvas, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ .footer-WDc .lets-move-EfQ .lets-move-EfQ-sub-1 {
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e74646;
+  font-family: MADE Canvas, "Source Sans Pro";
+}
+.landing-page-fix-Smc .group-4-g2z .auto-group-ns8e-UeJ .footer-WDc .rectangle-103-CEr {
+  margin: 0rem 26.15rem 10.6rem 26.15rem;
+  width: calc(100% - 52.3rem);
+  height: 1.1rem;
+  background-color: rgba(231, 70, 70, 0.5799999833);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
